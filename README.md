@@ -1,7 +1,7 @@
 markdown
 # Advllm SDK RecSys AgenticRag Multi-Agent Workflow GraphRAG
 
-Advllm is a Python SDK for building recommendation systems for advertising based on language models. This SDK provides tools for interacting with various models and services.
+Advllm is a Python SDK for building recommendation systems for advertising based on language models. This SDK provides tools for interacting with various models and services, facilitating the creation of advertising pipelines for products, documents, and .
 
 <div align="center">
     <img src="assets/AgenticRAGV2.png"/></br>
