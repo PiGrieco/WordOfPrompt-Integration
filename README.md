@@ -363,4 +363,31 @@ async def read_root():
 
 ```
 
+## 🤝 Contributing
+
+Feel free to contribute and join our Discord server to discuss with us improvements and give us suggestions!
+
+Please see the [contributing guidelines](https://github.com/PiGrieco/WordOfPrompt-Integration/blob/main/CONTRIBUTING.md).
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/aigot-srl)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aigot-srl)
+
+## 📈 Roadmap
+Check out the project roadmap [here](https://github.com/PiGrieco/WordOfPrompt-Integration/blob/main/docs/README.md)! 🚀
+
+## ❤️ Contributors
+[![Contributors](https://contrib.rocks/image?repo=PiGrieco/WordOfPrompt-Integration)](https://github.com/PiGrieco/WordOfPrompt-Integration/graphs/contributors)
+
+## 🎓 Citations
+If you have used our SDK library for research purposes please quote us with the following reference:
+```text
+  @misc{Advllm,
+    author = {Piermatteo Grieco, Youness ElBrag},
+    title = {Advllm},
+    year = {2024},
+    url = {https://github.com/PiGrieco/WordOfPrompt-Integration},
+    note = {A Python SDK library for Building AgenticRag RecSys-LLM Via Tool calling Mutli-Agent system leveraging large language models}
+  }
+```
+
 
