@@ -1,7 +1,19 @@
 markdown
-# Advllm SDK RecSys AgenticRag Multi-Agent Workflow GraphRAG
+# 🕷️  Advllm SDK RecSys AgenticRag 
 
-Advllm is a Python SDK for building recommendation systems for advertising based on language models. This SDK provides tools for interacting with various models and services, facilitating the creation of advertising pipelines for products, documents, and .
+# 🕷️ ScrapeGraphAI: You Only Scrape Once
+
+[![Downloads](https://static.pepy.tech/badge/advllm)](https://pepy.tech/project/advllm)
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+[![Pylint](https://github.com/PiGrieco/WordOfPrompt-Integration/actions/workflows/pylint.yml/badge.svg)](https://github.com/PiGrieco/WordOfPrompt-Integration/actions/workflows/pylint.yml)
+[![CodeQL](https://github.com/PiGrieco/WordOfPrompt-Integration/actions/workflows/codeql.yml/badge.svg)](https://github.com/PiGrieco/WordOfPrompt-Integration/actions/workflows/codeql.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Advllm is a Python SDK for building recommendation systems for advertising based on language models. This SDK provides tools for interacting with various models and servicesof  Multi-Agent Workflow GraphRAG , facilitating the creation of advertising pipelines for products, documents, and .
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PiGrieco/WordOfPrompt-Integration/main/assets/advllm.png" alt="Scrapegraph-ai Logo" style="width: 50%;">
+</p>
 
 <div align="center">
     <img src="assets/AgenticRAGV2.png"/></br>
