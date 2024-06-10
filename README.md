@@ -77,10 +77,23 @@ To get started with Advllm, follow the steps below:
 pip install advllm
 ```
 
+**Note**: it is recommended to install the library in a virtual environment to avoid conflicts with other libraries 🐱
+
+## 🔍 Demo
+Official streamlit demo:
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=react)](https://scrapegraph-ai-web-dashboard.streamlit.app) 
+-->
+**Demp : Under Dev Progress** 
+
+Try it directly on the web using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebook/OpenTheVault.ipynb)
+
 ### Features Tested with unietesting
 
 - [x] Different LLM calling APIs OpenAI compatibility based-models in different versions such as Ollama (Llama, Alpaca, Vicuna, Llama 2 )  Mixtral , GPTs Sefl-Hosted LLM 
-- [ ] Query Listening Stream Request AgenticRAG
+- [x] Query Listening Stream Request AgenticRAG
 - [x] Hugging Face Model Self-Hosted Inference APis calling 
 - [x] Inference API Requetes OpenSesame Compute Intent-Score 
 - [x] Configure Self-Hosted APIs Text-Generation (ollama)
