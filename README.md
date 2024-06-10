@@ -1,14 +1,14 @@
 markdown
 # 🕷️  Advllm SDK RecSys AgenticRag 
 
-<!-- [![Downloads](https://static.pepy.tech/badge/advllm)](https://pepy.tech/project/advllm) -->
+
 <div align="center">
-  <img src="assets/advllm.png" alt="advllm-Logo" width="300">
+  <img src="assets/advllm.png" alt="advllm-Logo" width="200">
 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/PiGrieco/WordOfPrompt-Integration/)
-[![GitHub issues](https://img.shields.io/github/issues/kyegomez/Med-Palm)](https://github.com/PiGrieco/WordOfPrompt-Integration/issues) 
-[![GitHub forks](https://img.shields.io/github/forks/kyegomez/Med-Palm)](https://github.com/PiGrieco/WordOfPrompt-Integration/network) 
-[![GitHub stars](https://img.shields.io/github/stars/kyegomez/Med-Palm)](https://github.com/PiGrieco/WordOfPrompt-Integration/stargazers) [![GitHub license](https://img.shields.io/github/license/youness-elbrag/AdapterLoRa)](https://github.com/PiGrieco/WordOfPrompt-Integration/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/PiGrieco/WordOfPrompt-Integration)](https://github.com/PiGrieco/WordOfPrompt-Integration/issues) 
+[![GitHub forks](https://img.shields.io/github/forks/PiGrieco/WordOfPrompt-Integration)](https://github.com/PiGrieco/WordOfPrompt-Integration/network) 
+[![GitHub stars](https://img.shields.io/github/stars/PiGrieco/WordOfPrompt-Integration)](https://github.com/PiGrieco/WordOfPrompt-Integration/stargazers) [![GitHub license](https://img.shields.io/github/license/youness-elbrag/AdapterLoRa)](https://github.com/PiGrieco/WordOfPrompt-Integration/blob/master/LICENSE)
 </div>
 
 
@@ -19,6 +19,8 @@ Advllm is a Python SDK for building recommendation systems for advertising based
     <figcaption>OpenTheVault-API</figcaption>
 </div>
 
+</br>
+</br>
 here's a high-level explanation and the plan to implement the FastAPI WebSocket server that listens to incoming requests, processes them through the self-hosted LLM, and interacts with other components as needed.
 System Design Workflow :
 
