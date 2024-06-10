@@ -1,8 +1,6 @@
 markdown
 # 🕷️  Advllm SDK RecSys AgenticRag 
 
-# 🕷️ ScrapeGraphAI: You Only Scrape Once
-
 [![Downloads](https://static.pepy.tech/badge/advllm)](https://pepy.tech/project/advllm)
 [![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
 [![Pylint](https://github.com/PiGrieco/WordOfPrompt-Integration/actions/workflows/pylint.yml/badge.svg)](https://github.com/PiGrieco/WordOfPrompt-Integration/actions/workflows/pylint.yml)
