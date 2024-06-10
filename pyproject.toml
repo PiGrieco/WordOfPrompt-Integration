@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "Advllm"
+version = "0.10.0"
+description = "A toolkit for recommendation products for advertising based on LLM python library that uses LLM and graph logic to create advertising pipelines for Products, documents, and CSV files."
+authors = [
+    "Youness ElBrag <youness.elbrag@aigot.com>",
+    "Piermatteo Grieco <piermatteo.grieco@aigot.com>"
+]
+license = "MIT"
+readme = "README.md"
+homepage = "https://Advllm.readthedocs.io/"
+repository = "https://github.com/PiGrieco/advllm/"
+documentation = "https://advllm-doc.onrender.com/"
+keywords = ["advllm", "langchain", "ai", "artificial intelligence", "gpt", "machine learning", "rag", "nlp", "natural language processing", "openai", "recommendation", "advertising", "graph"]
+classifiers = [
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.26.0"
+docker = "^5.0.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+
+[tool.poetry.group.docs]
+optional = true
+
+[tool.poetry.group.docs.dependencies]
+sphinx = "^4.3.0"
+sphinx-rtd-theme = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
